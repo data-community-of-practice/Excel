@@ -1,4 +1,4 @@
-**AlgorithmComparison.xlsx**
+**AlgorithmComparison.csv**
 
 **Description**
 There are 19 clustering techniques, each with their own algorithms. 
